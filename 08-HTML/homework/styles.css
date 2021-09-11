@@ -1,0 +1,24 @@
+
+body {  height: 1000px;
+        background-image: url("https://i.pinimg.com/736x/d9/67/4f/d9674f87b704f14556d9b5c2379ac3f0.jpg");
+        background-size: cover;
+        background-repeat:no-repeat;
+        background-position: center center;
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+      }
+h1 {color:lightpink; }
+img {width: 400px;}
+#thirdDiv {height: 600px;
+           width: 500px;
+           background-color: rgba(134, 148, 161, 0.815);
+           padding: 50px;
+           border-color:rgb(2, 204, 207);
+           border-width: 15px;
+           border-style:double;
+        }
+#spanId {font-size: 18px;
+        margin: 50px;}
+.divClass { text-align: center;
+color:deeppink; }
